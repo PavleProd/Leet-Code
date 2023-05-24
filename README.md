@@ -6,3 +6,4 @@ Medium: 1
 <br/>
 Stack:
 Easy: 1
+Medium: 1
