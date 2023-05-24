@@ -1,4 +1,4 @@
 # Leet-Code
 
 Arrays & Hashing:
-Easy: 2
+Easy: 3
