@@ -11,3 +11,6 @@ Medium: 1
 Two Pointers:
 Easy: 1
 Medium: 1
+<br/>
+Linked List:
+Easy: 1
