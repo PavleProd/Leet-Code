@@ -15,3 +15,7 @@ Medium: 1
 Linked List:
 Easy: 2
 Medium: 2
+<br/>
+Binary Search:
+Easy: 1
+Medium: 1
