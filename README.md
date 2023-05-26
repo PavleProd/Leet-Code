@@ -19,3 +19,4 @@ Easy: 1
 Medium: 1
 * Sliding window:
 Easy: 1
+Medium: 1
