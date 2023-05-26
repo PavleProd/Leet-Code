@@ -6,7 +6,7 @@ Medium: 1
 <br/>
 Stack:
 Easy: 1
-Medium: 1
+Medium: 2
 <br/>
 Two Pointers:
 Easy: 1
