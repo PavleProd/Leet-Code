@@ -1,5 +1,7 @@
 # Leet-Code
 
+* <a href=https://leetcode.com/PavleProd/>Leet Code profile</a> 
+
 Arrays & Hashing:
 Easy: 3
 Medium: 1
@@ -19,3 +21,6 @@ Medium: 2
 Binary Search:
 Easy: 1
 Medium: 1
+<br/>
+Sliding window:
+Easy: 1
