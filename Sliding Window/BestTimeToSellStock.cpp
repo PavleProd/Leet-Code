@@ -20,6 +20,25 @@ int maxProfit(vector<int>& prices) {
     return currMax;
 }
 
+int maxProfitFaster(vector<int>& prices) {
+    int left = 0, right = 1;
+    int maxProfit = 0;
+    while(right < prices.size()) {
+        int diff = prices[right] - prices[left];
+        if(diff > 0) {
+            if(maxProfit < diff) {
+                maxProfit = diff;
+            }
+        }
+        else {
+            left = right;
+        }
+        right += 1;
+    }
+
+    return maxProfit;
+}
+
 /*
 int main() {
     vector<int> prices{};
