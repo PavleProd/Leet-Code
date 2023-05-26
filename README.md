@@ -14,3 +14,4 @@ Medium: 1
 <br/>
 Linked List:
 Easy: 2
+Medium: 2
