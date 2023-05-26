@@ -1,26 +1,21 @@
 # Leet-Code
 
-* <a href=https://leetcode.com/PavleProd/>Leet Code profile</a> 
-
-Arrays & Hashing:
+<a href=https://leetcode.com/PavleProd/>Leet Code profile</a> 
+<br/>
+* Arrays & Hashing:
 Easy: 3
 Medium: 1
-<br/>
-Stack:
+* Stack:
 Easy: 1
 Medium: 2
-<br/>
-Two Pointers:
+* Two Pointers:
 Easy: 1
 Medium: 1
-<br/>
-Linked List:
+* Linked List:
 Easy: 2
 Medium: 2
-<br/>
-Binary Search:
+* Binary Search:
 Easy: 1
 Medium: 1
-<br/>
-Sliding window:
+* Sliding window:
 Easy: 1
