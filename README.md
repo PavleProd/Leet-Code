@@ -16,7 +16,7 @@ Easy: 2
 Medium: 2
 * Binary Search:
 Easy: 1
-Medium: 1
+Medium: 2
 * Sliding window:
 Easy: 1
-Medium: 1
+Medium: 2
