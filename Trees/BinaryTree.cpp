@@ -86,3 +86,38 @@ int BinaryTree::maxDepth() {
 
     return levels;
 }
+
+int BinaryTree::diameter(TreeNode *curr) {
+    if(!curr) {
+        return 0;
+    }
+
+    int left = diameter(curr->left), right = diameter(curr->right);
+    recursionTemp = max(left + right, recursionTemp);
+
+    return max(left, right) + 1;
+}
+
+int BinaryTree::diameterOfBinaryTree() {
+    diameter(root);
+    return recursionTemp;
+}
+
+int BinaryTree::balanced(TreeNode* curr) {
+    if(!curr) return 0;
+
+    int left = balanced(curr->left), right = balanced(curr->right);
+    if(abs(right - left) >= 2) recursionTemp = 0;
+
+    return max(left, right) + 1;
+}
+
+bool BinaryTree::isBalanced() {
+    recursionTemp = 1;
+    if(!root) return true;
+
+    balanced(root);
+    return recursionTemp;
+}
+
+
