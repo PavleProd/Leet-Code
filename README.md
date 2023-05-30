@@ -20,3 +20,7 @@ Medium: 2
 * Sliding window:
 Easy: 1
 Medium: 2
+* Priority Queue:
+Easy: 2
+* Greedy:
+Medium: 1
