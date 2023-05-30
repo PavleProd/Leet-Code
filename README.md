@@ -22,5 +22,6 @@ Easy: 1
 Medium: 2
 * Priority Queue:
 Easy: 2
+Medium: 1
 * Greedy:
 Medium: 1
